@@ -1,45 +1,116 @@
-<h1 align="center">ohayou minna! i'm  <a href=""><b>kiki 😹</b></a>!></h1>
+<div align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/vsSZpRkAAyaJJbti.png" alt="Cyberpunk City Banner" width="100%"/>
+</div>
 
-![Cyberpunk City Banner](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/vsSZpRkAAyaJJbti.png)
+<h1 align="center">Hi there, I'm <a href="https://github.com/KikiProjecto"><b>KikiProjecto</b></a>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-c053-11ea-8b19-3b829a9d3f3c.gif" width="45">
+</h1>
 
-## 🤖 About Me
+<div align="center">
+  <p><i>✨ "The world is made of numbers." ✨</i></p>
+  <p>— Manus AI</p>
+</div>
 
-Greetings, fellow digital explorers! I am KikiProjecto, a passionate **buidler** and **open-source projects enthusiast** hailing from Jakarta. My journey in the digital realm is driven by a relentless curiosity and a desire to craft innovative solutions that push the boundaries of technology. I thrive on transforming complex ideas into elegant, functional code, always with a keen eye for detail and a commitment to the open-source ethos.
+<div align="center">
+  <b>Dedicated Buidler & Open-Source Enthusiast</b> with expertise in <b>JavaScript</b>, <b>TypeScript</b>, and <b>GNOME Development</b>.
+  <p>Passionate about building scalable, efficient, and user-focused digital solutions.</p>
+  <p>📍 Currently based in <b>Jakarta, Indonesia</b></p>
+</div>
 
-## ⚙️ Tech Stacks
+<hr>
 
-My arsenal of tools and technologies is constantly evolving, but I have a strong foundation in the following:
+<h2 align="center"><b>😊 About Me</b></h2>
 
-### Programming Languages
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>👨‍💻 Professional</h3>
+      </div>
+      <ul>
+        <li>🔭 Currently working on exciting open-source projects.</li>
+        <li>🌱 Building innovative solutions with a focus on blockchain and AI.</li>
+        <li>⚡ Experienced in crafting elegant and functional code.</li>
+        <li>☁️ Exploring new technologies and contributing to the developer community.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>💡 Interests & Goals</h3>
+      </div>
+      <ul>
+        <li>🚀 **Intelligent NFTs (INFTs)**: Leveraging AI inference on the 0G Network.</li>
+        <li>🤖 **Autonomous AI Agents**: Developing solutions for various domains, including agriculture on Solana.</li>
+        <li>🖥️ **Desktop Customization**: Enhancing user experience with GNOME extensions.</li>
+        <li>📚 Continuously learning and adapting to new tech trends.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-*   **JavaScript**: A versatile language that powers much of my web development endeavors.
-*   **TypeScript**: My preferred choice for building robust and scalable applications, adding type safety to JavaScript.
+<hr>
 
-### Frameworks & Libraries
+<h2 align="center"><b>🔧 Tech Stack</b></h2>
 
-*   **React**: For crafting dynamic and interactive user interfaces.
-*   **Node.js**: For server-side applications and backend development.
-*   **GNOME Extensions**: Developing extensions for the GNOME desktop environment, enhancing user experience.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>💻 Languages</h3>
+      </div>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript, TypeScript"/>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📚 Frameworks & Libraries</h3>
+      </div>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React, Node.js"/>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>⚙️ Tools & Platforms</h3>
+      </div>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=github,vscode,linux" alt="GitHub, VS Code, Linux"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### Key Projects & Domains
+<hr>
 
-*   **Desktop Customization**: Enhancing desktop environments with tools like live wallpapers for GNOME. (See: [gnome-ext-hanabi](https://github.com/KikiProjecto/gnome-ext-hanabi), [neoTweaks](https://github.com/KikiProjecto/neoTweaks))
+<h2 align="center"><b>📊 GitHub Statistics</b></h2>
 
-## 📊 Performance & Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KikiProjecto&show_icons=true&theme=radical&width=100%" alt="KikiProjecto GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikiProjecto&layout=compact&theme=radical&width=100%" alt="KikiProjecto Top Languages"/>
+</div>
 
-(This section can be dynamically updated with GitHub statistics using tools like GitHub Readme Stats or other API integrations. For now, it serves as a placeholder.)
+<hr>
 
-*   **Total Contributions (Last Year)**: (To be inserted dynamically)
-*   **Most Used Languages**: (To be inserted dynamically)
+<h2 align="center"><b>🤝 Let's Connect</b></h2>
 
-## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kikiprojecto"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/RGqHXgXHBjbwDSvx.png" alt="LinkedIn" height="40"></a>
+  <a href="https://github.com/KikiProjecto"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/JUCeJRraWGaVqCzi.png" alt="GitHub" height="40"></a>
+  <a href="https://twitter.com/kikiprojecto"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/TPsAlFfryyDMcXGz.png" alt="X" height="40"></a>
+  <a href="mailto:your.email@example.com"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/fVEMUTfGRJxjgXdt.png" alt="Gmail" height="40"></a>
+  <a href="https://www.instagram.com/niijuugo"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/GQhEzECmwtvAtSUh.png" alt="Instagram" height="40"></a>
+</p>
 
-Let's connect and build the future together!
+<div align="center">
+  <b>Thanks for visiting! Feel free to reach out if you want to collaborate or chat! 😊</b>
+</div>
 
-[![LinkedIn](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/RGqHXgXHBjbwDSvx.png)](https://www.linkedin.com/in/kikiprojecto) 
-[![GitHub](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/JUCeJRraWGaVqCzi.png)](https://github.com/KikiProjecto) 
-[![X](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/TPsAlFfryyDMcXGz.png)](https://twitter.com/kikiprojecto) 
-[![Gmail](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/fVEMUTfGRJxjgXdt.png)](mailto:kikiweb3projecto@gmail.com) 
-[![Instagram](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/GQhEzECmwtvAtSUh.png)](https://www.instagram.com/niijuugo)
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KikiProjecto&color=brightgreen" alt="Profile Views"/>
+</div>
 
+---
+
+*This README.md was crafted by Manus AI with a pixelated heart and robotic precision.*
