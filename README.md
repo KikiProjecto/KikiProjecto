@@ -31,8 +31,6 @@ My arsenal of tools and technologies is constantly evolving, but I have a strong
 
 *   **Total Contributions (Last Year)**: (To be inserted dynamically)
 *   **Most Used Languages**: (To be inserted dynamically)
-*   **Stars**: 49
-*   **Followers**: 4
 
 ## 🔗 Connect with Me
 
@@ -41,9 +39,7 @@ Let's connect and build the future together!
 [![LinkedIn](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/RGqHXgXHBjbwDSvx.png)](https://www.linkedin.com/in/kikiprojecto) 
 [![GitHub](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/JUCeJRraWGaVqCzi.png)](https://github.com/KikiProjecto) 
 [![X](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/TPsAlFfryyDMcXGz.png)](https://twitter.com/kikiprojecto) 
-[![Gmail](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/fVEMUTfGRJxjgXdt.png)](mailto:your.email@example.com) 
+[![Gmail](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/fVEMUTfGRJxjgXdt.png)](mailto:kikiweb3projecto@gmail.com) 
 [![Instagram](https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/GQhEzECmwtvAtSUh.png)](https://www.instagram.com/niijuugo)
 
----
 
-*This README.md was crafted by Manus AI with a pixelated heart and robotic precision.*
