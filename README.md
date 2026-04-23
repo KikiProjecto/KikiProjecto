@@ -23,8 +23,6 @@ My arsenal of tools and technologies is constantly evolving, but I have a strong
 
 ### Key Projects & Domains
 
-*   **Intelligent NFTs (INFTs)**: Exploring the cutting edge of NFTs on the 0G Network, leveraging AI inference with the ERC-7857 standard. (See: [og-inft-monorepo](https://github.com/KikiProjecto/og-inft-monorepo))
-*   **Autonomous AI Agents**: Participating in challenges and building solutions with AI agents, particularly in areas like agriculture on Solana. (See: [agent-challenge](https://github.com/KikiProjecto/agent-challenge), [zaraiai](https://github.com/KikiProjecto/zaraiai))
 *   **Desktop Customization**: Enhancing desktop environments with tools like live wallpapers for GNOME. (See: [gnome-ext-hanabi](https://github.com/KikiProjecto/gnome-ext-hanabi), [neoTweaks](https://github.com/KikiProjecto/neoTweaks))
 
 ## 📊 Performance & Statistics
