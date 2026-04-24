@@ -7,38 +7,38 @@
 <div align="center">
   <b>Dedicated Buidler & Open-Source Enthusiast,</b> <br> with expertise in <b>JavaScript</b>, <b>TypeScript</b>, and <b>GNOME Development</b>.
   <p>Passionate about building scalable, efficient, and user-focused digital solutions.</p>
-  <p>📍 Currently based in <b>Jakarta, Indonesia</b></p>
+  <p>based in <b>Jakarta, Indonesia</b></p>
 </div>
 
 <hr>
 
-<h2 align="center"><b>😊 About Me</b></h2>
+<h2 align="center"><b>About Me</b></h2>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>👨‍💻 Professional</h3>
+        <h3>Professional</h3>
       </div>
       <div align="center">
         <ul style="display: inline-block; text-align: left;">
-          <li>🔭 Currently working on exciting open-source projects.</li>
-          <li>🌱 Building innovative solutions with a focus on blockchain and AI.</li>
-          <li>⚡ Experienced in crafting elegant and functional code.</li>
-          <li>☁️ Exploring new technologies and contributing to the developer community.</li>
+          <li>Currently working on exciting open-source projects.</li>
+          <li>Building innovative solutions with a focus on blockchain and AI.</li>
+          <li>Experienced in crafting elegant and functional code.</li>
+          <li>Exploring new technologies and contributing to the developer community.</li>
         </ul>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>💡 Interests & Goals</h3>
+        <h3>Interests & Goals</h3>
       </div>
       <div align="center">
         <ul style="display: inline-block; text-align: left;">
-          <li>🚀 Intelligent NFTs (INFTs) : Leveraging AI inference on the 0G Network.</li>
-          <li>🤖 Autonomous AI Agents : Developing solutions for various domains, including agriculture on Solana.</li>
-          <li>🖥️ Desktop Customization: Enhancing user experience with GNOME extensions.</li>
-          <li>📚 Continuously learning and adapting to new tech trends.</li>
+          <li>Intelligent NFTs (INFTs) : Leveraging AI inference on the 0G Network.</li>
+          <li>Autonomous AI Agents : Developing solutions for various domains, including agriculture on Solana.</li>
+          <li>Desktop Customization: Enhancing user experience with GNOME extensions.</li>
+          <li>Continuously learning and adapting to new tech trends.</li>
         </ul>
       </div>
     </td>
@@ -47,7 +47,7 @@
 
 <hr>
 
-<h2 align="center"><b>🔧 Tech Stack</b></h2>
+<h2 align="center"><b>Tech Stacks i used</b></h2>
 
 <table align="center">
   <tr>
@@ -61,7 +61,7 @@
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>📚 Frameworks & Libraries</h3>
+        <h3>Frameworks & Libraries</h3>
       </div>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React, Node.js"/>
@@ -69,7 +69,7 @@
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>⚙️ Tools & Platforms</h3>
+        <h3>Tools & Platforms</h3>
       </div>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=github,vscode,linux" alt="GitHub, VS Code, Linux"/>
@@ -80,7 +80,7 @@
 
 <hr>
 
-<h2 align="center"><b>📊 GitHub Statistics</b></h2>
+<h2 align="center"><b>GitHub Statistics</b></h2>
 
 <div align="center">
   <table align="center">
@@ -97,7 +97,7 @@
 
 <hr>
 
-<h2 align="center"><b>🤝 Let's Connect</b></h2>
+<h2 align="center"><b>Connect with me!</b></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kikiprojecto"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/RGqHXgXHBjbwDSvx.png" alt="LinkedIn" height="40"></a>
@@ -108,7 +108,7 @@
 </p>
 
 <div align="center">
-  <b>Thanks for visiting! Feel free to reach out if you want to collaborate or chat! 😊</b>
+  <b>arigato for visiting! 🐈</b>
 </div>
 
 <br>
