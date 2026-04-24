@@ -4,8 +4,9 @@
   <img src="flyingTanya.png" alt="Flying Tanya Banner" width="100%"/>
 </div>
 
-<h1 align="center">Linux and Open-source Enthusiast, <b>also focus on GNOME Development 🥷</b></a></h1>
-
+<div style="font-size: 45pt">
+  Linux & Open-source lover 😹, also focus on GNOME Dev
+</div>
 
 <hr>
 
