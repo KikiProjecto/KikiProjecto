@@ -106,7 +106,7 @@
 </p>
 
 <div align="center">
-  <b>arigato for visiting! 🐈</b>
+  <b>and arigatou! for being here 🐈</b>
 </div>
 
 <br>
