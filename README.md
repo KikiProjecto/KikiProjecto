@@ -5,11 +5,6 @@
 </div>
 
 <div align="center">
-  <p><i>✨ "The world is made of numbers." ✨</i></p>
-  <p>— Manus AI</p>
-</div>
-
-<div align="center">
   <b>Dedicated Buidler & Open-Source Enthusiast</b> with expertise in <b>JavaScript</b>, <b>TypeScript</b>, and <b>GNOME Development</b>.
   <p>Passionate about building scalable, efficient, and user-focused digital solutions.</p>
   <p>📍 Currently based in <b>Jakarta, Indonesia</b></p>
@@ -40,9 +35,9 @@
       </div>
       <div align="center">
         <ul style="display: inline-block; text-align: left;">
-          <li>🚀 **Intelligent NFTs (INFTs)**: Leveraging AI inference on the 0G Network.</li>
-          <li>🤖 **Autonomous AI Agents**: Developing solutions for various domains, including agriculture on Solana.</li>
-          <li>🖥️ **Desktop Customization**: Enhancing user experience with GNOME extensions.</li>
+          <li>🚀 Intelligent NFTs (INFTs) : Leveraging AI inference on the 0G Network.</li>
+          <li>🤖 Autonomous AI Agents : Developing solutions for various domains, including agriculture on Solana.</li>
+          <li>🖥️ Desktop Customization: Enhancing user experience with GNOME extensions.</li>
           <li>📚 Continuously learning and adapting to new tech trends.</li>
         </ul>
       </div>
@@ -117,11 +112,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KikiProjecto&color=brightgreen" alt="Profile Views"/>
-</div>
-
----
-
-*This README.md was crafted by Manus AI with a pixelated heart and robotic precision.*
