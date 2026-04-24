@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone! <b>i'm kiki 🥽</b></a></h1>
 
 <div align="center">
-  <img src="cat2.png" alt="profile banner" width="100%"/>
+  <img src="cat3.png" alt="profile banner" width="100%"/>
 </div>
 
 <div align="center">
