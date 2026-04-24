@@ -81,8 +81,8 @@
 <h2 align="center"><b>Connect with me!</b></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/RGqHXgXHBjbwDSvx.png" alt="LinkedIn" width="40" height="40"></a>
-  <a href="https://github.com/KikiProjecto"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/JUCeJRraWGaVqCzi.png" alt="GitHub" width="40" height="40"></a>
+  <a href="https://www.linkedin.com"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/RGqHXgXHBjbwDSvx.png" alt="LinkedIn" height="40"></a>
+  <a href="https://github.com/KikiProjecto"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/JUCeJRraWGaVqCzi.png" alt="GitHub" height="40"></a>
   <a href="https://x.com/kikiprojecto"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/TPsAlFfryyDMcXGz.png" alt="X" height="40"></a>
   <a href="mailto:kikiweb3projecto@gmail.com"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/fVEMUTfGRJxjgXdt.png" alt="Gmail" height="40"></a>
   <a href="https://www.instagram.com/niijuugo"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/GQhEzECmwtvAtSUh.png" alt="Instagram" height="40"></a>
