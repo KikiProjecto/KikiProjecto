@@ -1,9 +1,8 @@
-<div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663585834650/vsSZpRkAAyaJJbti.png" alt="Cyberpunk City Banner" width="100%"/>
-</div>
+<h1 align="center">Hi there, I'm <a href="https://github.com/KikiProjecto"><b>KikiProjecto</b></a>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-c053-11ea-8b19-3b829a9d3f3c.gif" width="45"></h1>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/KikiProjecto"><b>KikiProjecto</b></a>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-c053-11ea-8b19-3b829a9d3f3c.gif" width="45">
-</h1>
+<div align="center">
+  <img src="img/flyingTanya.png" alt="Flying Tanya Banner" width="100%"/>
+</div>
 
 <div align="center">
   <p><i>✨ "The world is made of numbers." ✨</i></p>
@@ -20,29 +19,33 @@
 
 <h2 align="center"><b>😊 About Me</b></h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>👨‍💻 Professional</h3>
       </div>
-      <ul>
-        <li>🔭 Currently working on exciting open-source projects.</li>
-        <li>🌱 Building innovative solutions with a focus on blockchain and AI.</li>
-        <li>⚡ Experienced in crafting elegant and functional code.</li>
-        <li>☁️ Exploring new technologies and contributing to the developer community.</li>
-      </ul>
+      <div align="center">
+        <ul style="display: inline-block; text-align: left;">
+          <li>🔭 Currently working on exciting open-source projects.</li>
+          <li>🌱 Building innovative solutions with a focus on blockchain and AI.</li>
+          <li>⚡ Experienced in crafting elegant and functional code.</li>
+          <li>☁️ Exploring new technologies and contributing to the developer community.</li>
+        </ul>
+      </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
         <h3>💡 Interests & Goals</h3>
       </div>
-      <ul>
-        <li>🚀 **Intelligent NFTs (INFTs)**: Leveraging AI inference on the 0G Network.</li>
-        <li>🤖 **Autonomous AI Agents**: Developing solutions for various domains, including agriculture on Solana.</li>
-        <li>🖥️ **Desktop Customization**: Enhancing user experience with GNOME extensions.</li>
-        <li>📚 Continuously learning and adapting to new tech trends.</li>
-      </ul>
+      <div align="center">
+        <ul style="display: inline-block; text-align: left;">
+          <li>🚀 **Intelligent NFTs (INFTs)**: Leveraging AI inference on the 0G Network.</li>
+          <li>🤖 **Autonomous AI Agents**: Developing solutions for various domains, including agriculture on Solana.</li>
+          <li>🖥️ **Desktop Customization**: Enhancing user experience with GNOME extensions.</li>
+          <li>📚 Continuously learning and adapting to new tech trends.</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
@@ -51,7 +54,7 @@
 
 <h2 align="center"><b>🔧 Tech Stack</b></h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" valign="top">
       <div align="center">
@@ -85,8 +88,16 @@
 <h2 align="center"><b>📊 GitHub Statistics</b></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KikiProjecto&show_icons=true&theme=radical&width=100%" alt="KikiProjecto GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikiProjecto&layout=compact&theme=radical&width=100%" alt="KikiProjecto Top Languages"/>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=KikiProjecto&show_icons=true&theme=radical&width=100%" alt="KikiProjecto GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikiProjecto&layout=compact&theme=radical&width=100%" alt="KikiProjecto Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr>
