@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  # Linux & Open-source lover 😹
+  Linux & Open-source lover 😹
 </div>
 
 <hr>
 
-<h2 align="center"><b>About Me</b></h2>
+<h2 align="center"><b>About me</b></h2>
 
 <table align="center">
   <tr>
