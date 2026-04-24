@@ -78,23 +78,6 @@
 
 <hr>
 
-<h2 align="center"><b>My Statistics <"></b></h2>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KikiProjecto&show_icons=true&theme=radical&width=100%" alt="KikiProjecto GitHub Stats"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikiProjecto&layout=compact&theme=radical&width=100%" alt="KikiProjecto Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr>
-
 <h2 align="center"><b>Connect with me!</b></h2>
 
 <p align="center">
