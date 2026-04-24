@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone!<a href="https://github.com/KikiProjecto"><b>i'm kiki 🥷</b></a>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-c053-11ea-8b19-3b829a9d3f3c.gif" width="45"></h1>
+<h1 align="center">Hi everyone! <a href="https://github.com/KikiProjecto"><b>i'm kiki 🥷</b></a>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-c053-11ea-8b19-3b829a9d3f3c.gif" width="45"></h1>
 
 <div align="center">
   <img src="img/flyingTanya.png" alt="Flying Tanya Banner" width="100%"/>
