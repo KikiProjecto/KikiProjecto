@@ -1,12 +1,11 @@
-<h1 align="center">Hi everyone! <b>i'm kiki 🥷</b></a></h1>
+<h1 align="center">Hi everyone! <b>i'm kiki 🥽</b></a></h1>
 
 <div align="center">
   <img src="flyingTanya.png" alt="Flying Tanya Banner" width="100%"/>
 </div>
 
-<div align="center" width="85pt">
-  <b>Open-Source Enthusiast, esp GNOME Development</b>.
-</div>
+<h1 align="center">Linux and Open-source Enthusiast, <b>also focus on GNOME Development 🥷</b></a></h1>
+
 
 <hr>
 
