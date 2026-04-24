@@ -47,7 +47,7 @@
 
 <hr>
 
-<h2 align="center"><b>Tech Stacks i used</b></h2>
+<h2 align="center"><b>Tech Stacks i use</b></h2>
 
 <table align="center">
   <tr>
