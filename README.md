@@ -4,7 +4,7 @@
   <img src="flyingTanya.png" alt="Flying Tanya Banner" width="100%"/>
 </div>
 
-<div style="font-size: 45pt">
+<div align="center" style="font-size: 45pt">
   Linux & Open-source lover 😹, also focus on GNOME Dev
 </div>
 
