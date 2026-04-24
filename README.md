@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <b>Dedicated Buidler & Open-Source Enthusiast</b> with expertise in <b>JavaScript</b>, <b>TypeScript</b>, and <b>GNOME Development</b>.
+  <b>Dedicated Buidler & Open-Source Enthusiast,</b> << endl << with expertise in <b>JavaScript</b>, <b>TypeScript</b>, and <b>GNOME Development</b>.
   <p>Passionate about building scalable, efficient, and user-focused digital solutions.</p>
   <p>📍 Currently based in <b>Jakarta, Indonesia</b></p>
 </div>
