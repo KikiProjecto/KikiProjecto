@@ -80,7 +80,7 @@
 
 <hr>
 
-<h2 align="center"><b>GitHub Statistics</b></h2>
+<h2 align="center"><b>My Statistics <"></b></h2>
 
 <div align="center">
   <table align="center">
