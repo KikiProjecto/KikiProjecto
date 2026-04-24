@@ -4,7 +4,7 @@
   <img src="flyingTanya.png" alt="Flying Tanya Banner" width="100%"/>
 </div>
 
-<div align="center">
+<div align="center" width="45">
   <b>Open-Source Enthusiast, esp GNOME Development</b>.
 </div>
 
