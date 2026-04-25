@@ -54,7 +54,7 @@
         <h3>💻 Languages</h3>
       </div>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript, TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript"/>
       </div>
     </td>
     <td width="33%" valign="top">
