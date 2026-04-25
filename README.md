@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone! <b>i'm kiki 🥽</b></a></h1>
 
 <div align="center">
-  <img src="shizuku.jpg" alt="profile banner" width="100%"/>
+  <img src="cat3.png" alt="profile banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -62,7 +62,7 @@
         <h3>Frameworks & Libraries</h3>
       </div>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,ethereum" alt="React, Node.js, Ethereum"/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React, Node.js"/>
       </div>
     </td>
     <td width="33%" valign="top">
