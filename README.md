@@ -20,7 +20,7 @@
       </div>
       <div align="center">
         <ul style="display: inline-block; text-align: left;">
-          <li>Currently working on exciting open-source projects.</li>
+          <li>Currently working on several Web3 projects.</li>
           <li>Building innovative solutions with a focus on blockchain and AI.</li>
           <li>Experienced in crafting elegant and functional code.</li>
           <li>Exploring new technologies and contributing to the developer community.</li>
