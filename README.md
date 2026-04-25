@@ -70,7 +70,7 @@
         <h3>Tools & Platforms</h3>
       </div>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=github,vscode,figma,linux" alt="GitHub, VS Code, Figma, Linux"/>
+        <img src="https://skillicons.dev/icons?i=github,vscode,figma,framer,linux" alt="GitHub, VS Code, Figma, Framer, Linux"/>
       </div>
     </td>
   </tr>
