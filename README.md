@@ -62,7 +62,7 @@
         <h3>Frameworks & Libraries</h3>
       </div>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,svelte,angular" alt="React, Node.js, Svelte, Angular"/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,ethereum" alt="React, Node.js, Ethereum"/>
       </div>
     </td>
     <td width="33%" valign="top">
