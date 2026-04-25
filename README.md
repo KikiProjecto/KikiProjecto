@@ -62,7 +62,7 @@
         <h3>Frameworks & Libraries</h3>
       </div>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React, Node.js"/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,svelte,angular" alt="React, Node.js, Svelte, Angular"/>
       </div>
     </td>
     <td width="33%" valign="top">
@@ -70,7 +70,7 @@
         <h3>Tools & Platforms</h3>
       </div>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=github,vscode,figma,framer,linux" alt="GitHub, VS Code, Figma, Framer, Linux"/>
+        <img src="https://skillicons.dev/icons?i=github,vscode,figma,linux" alt="GitHub, VS Code, Figma, Linux"/>
       </div>
     </td>
   </tr>
